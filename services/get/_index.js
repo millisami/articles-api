@@ -7,6 +7,8 @@ module.exports = {
 		var html = '<h1>dyson</h1><p>Example endpoints:</p>';
 
 		var examples = [
+			'/articles',
+			'/articles/1',
 			'/user',
 			'/users',
 			'/employee/5',
